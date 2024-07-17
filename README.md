@@ -15,7 +15,7 @@ The project is divided into three parts, each focusing on different network conc
 
 -Telnet: Provides a command-line interface for communication with remote devices.
 
-##### these commands runs to capture DNS messages using Wireshark, and analyze the outputs.
+#### these commands runs to capture DNS messages using Wireshark, and analyze the outputs.
 
 
 ## Part 2: TCP Client-Server Application
