@@ -1,6 +1,6 @@
 # Socket Programming and Simple Web Server
 
-# Description:
+## Description:
 
 This project involves implementing network communication using socket programming without the use of libraries and developing a simple web server.
 The project is divided into three parts, each focusing on different network concepts and practical applications:
